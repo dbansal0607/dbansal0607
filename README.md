@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dbansal0607)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/dhruv-bansal-74a987258/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dbansal0607)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbansal0607@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=dbansal0607&label=Profile+Views&style=for-the-badge&color=0066cc&labelColor=0a0e1a)](https://github.com/dbansal0607)
